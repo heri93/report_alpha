@@ -1,1 +1,1 @@
-# report_aplha
+# Sample Centralize COnfiguration
