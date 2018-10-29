@@ -1,0 +1,1 @@
+# Sample Centralize Configuration
